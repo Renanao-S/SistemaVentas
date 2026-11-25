@@ -8,8 +8,9 @@ public class main{
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(false);
 
+        //Vista para iniciar sesión
         VistaLogin vistaLogin =  new VistaLogin();
-        vistaLogin.setVisible(false);
+        vistaLogin.setVisible(true);
         frame.add(vistaLogin);
     }
 }

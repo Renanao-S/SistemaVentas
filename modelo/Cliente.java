@@ -1,4 +1,4 @@
-package model;
+package modelo;
 
 public class Cliente extends Usuario {
     private String codigo_cliente;

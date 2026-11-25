@@ -1,4 +1,4 @@
-package model;
+package modelo;
 
 public class Vendedor extends Usuario{
     private Double sueldo;

@@ -1,4 +1,4 @@
-package model;
+package modelo;
 
 public class Producto {
     private String cod_producto;
